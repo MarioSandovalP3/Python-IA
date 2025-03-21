@@ -20,6 +20,7 @@ consulta. Envía un mensaje a un modelo de lenguaje y devuelve la respuesta gene
 pip install openai
 ```
 
+
 ### 2. **[BertEmbeddings](https://github.com/MarioSandovalP3/Python-IA/blob/main/bert_embeddings.py)**
 Este script utiliza el modelo BERT de transformers para generar embeddings de un texto de entrada.
 Usa el tokenizer para procesar el texto y obtener los embeddings del último estado oculto del modelo.
