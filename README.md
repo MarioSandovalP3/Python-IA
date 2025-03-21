@@ -1,4 +1,4 @@
-# <img src="https://www.linkve.net/storage/images/python-ia.png" alt="Logo"  height="100"> Python + IA
+# Python + IA
 
 Este repositorio contiene varios scripts de Python que implementan técnicas de inteligencia artificial (IA) para procesar y analizar textos, así como interactuar con APIs de IA. Cada script tiene un enfoque diferente para demostrar diversas aplicaciones de IA, desde el análisis de texto hasta la integración con modelos preentrenados.
 
